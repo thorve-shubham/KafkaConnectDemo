@@ -1,0 +1,4 @@
+#IDE temp files
+.idea
+#twitter config
+src/twitter.properties
